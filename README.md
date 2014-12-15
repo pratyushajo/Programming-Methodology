@@ -9,4 +9,4 @@ Stanford CS106A Assignments
 4) Hangman
 5) Yahtzee
 6) Name Surfer
-7) Face Pamphlet
+7) Face Pamphlet: Social Network
